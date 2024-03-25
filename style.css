@@ -1,0 +1,15 @@
+body{
+	background: black;
+}
+header{
+	text-align: center;
+}
+.headAll{
+	color: orange;
+}
+p{
+	color: white;
+}
+span{
+	color: white;
+}
